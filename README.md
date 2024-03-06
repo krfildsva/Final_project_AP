@@ -3,6 +3,7 @@
 # Link to youtube video: https://youtu.be/poMycYXNfOw?feature=shared
 ### Group: IT-2204
 ### Nauruzova Anel, Korfildesova Saltanat, Bekbolat Zhanerke
+### The code is in posedetect.ipynb
 # Introduction:
 ## 1.1. Problem
 Human Pose Estimation (HPE) is one of the most important tasks among computer vision tasks, where the configuration of body parts of an object is determined either from images or videos. HPE has found wide application in the areas of augmented reality, animation, athlete performance analysis and surveillance. The problem is related to the variety of human poses, the occlusion of some body parts, the wide variety of environmental conditions and different camera points of view.
