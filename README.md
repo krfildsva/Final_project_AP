@@ -41,6 +41,7 @@ In summary, our current work involves the deployment of advanced pose estimation
 ## 2.1. Information about the data (probably analysis of the data with some visualizations)
 The MPII Human Pose Dataset comprises approximately 25,000 annotated images, each capturing a moment in human activity. These images exhibit a rich variety of poses, encompassing everyday actions like walking, sitting, and interacting with objects. Analyzing the MPII Human Pose Dataset offers profound insights into human motion and behavior. By examining the distribution of poses, we can uncover patterns and variations inherent in different activities. From simple standing postures to complex interactions, the dataset captures the full spectrum of human movement. This variability presents both challenges and opportunities for pose estimation algorithms, as models must handle diverse poses in real-world scenarios.
 
+![text](https://github.com/krfildsva/Final_project_AP/pic1.png?raw=true)
 
 Link to official site: http://human-pose.mpi-inf.mpg.de/ 
 Our Drive Link: https://drive.google.com/drive/folders/1ltDw2XSfj0FNuWJ_n9Fa5lKj-67NJWGU?usp=sharing 
